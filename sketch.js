@@ -52,14 +52,14 @@ var target2;
 
 function preload() {
   //load game assets
-  groundImage = loadImage("../images/background.png");
-  targetImage = loadImage("../images/target.png");
-  playerImage = loadImage("/images/player.png")
+  groundImage = loadImage("https://parthseh123.github.io/images/background.png");
+  targetImage = loadImage("https://parthseh123.github.io/images/target.png");
+  playerImage = loadImage("https://parthseh123.github.io/images/player.png")
   winsound = loadSound("winso.mp3")
-  upImage = loadImage("images/up.png")
-  downImage = loadImage("images/down.png")
-  leftImage = loadImage("images/left.png")
-  rightImage = loadImage("images/right.png")
+  upImage = loadImage("https://parthseh123.github.io/images/up.png")
+  downImage = loadImage("https://parthseh123.github.io/images/down.png")
+  leftImage = loadImage("https://parthseh123.github.io/images/left.png")
+  rightImage = loadImage("https://parthseh123.github.io/images/right.png")
 }
 
 
