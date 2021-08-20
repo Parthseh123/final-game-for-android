@@ -52,14 +52,14 @@ var target2;
 
 function preload() {
   //load game assets
-  groundImage = loadImage("https://parthseh123.github.io/images/background.png");
-  targetImage = loadImage("https://parthseh123.github.io/images/target.png");
-  playerImage = loadImage("https://parthseh123.github.io/images/player.png")
+  groundImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/background.png");
+  targetImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/target.png");
+  playerImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/player.png")
   winsound = loadSound("winso.mp3")
-  upImage = loadImage("https://parthseh123.github.io/images/up.png")
-  downImage = loadImage("https://parthseh123.github.io/images/down.png")
-  leftImage = loadImage("https://parthseh123.github.io/images/left.png")
-  rightImage = loadImage("https://parthseh123.github.io/images/right.png")
+  upImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/up.png")
+  downImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/down.png")
+  leftImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/left.png")
+  rightImage = loadImage("https://parthseh123.github.io/final-game-for-android/images/right.png")
 }
 
 
